@@ -2,7 +2,7 @@
 An AI-powered visual search engine where customers can  upload an image of jewellery they like, and the system finds similar items  from the catalog.
 
 
-##Overview
+## Overview
 **AI-Powered Visual Search for Jewellery** is an e-commerce solution that enables users to find jewellery items similar to their uploaded images. The project leverages advanced AI technologies to deliver accurate and efficient visual search functionalities.
 
 
@@ -23,7 +23,7 @@ An AI-powered visual search engine where customers can  upload an image of jewel
 - **Deployment:** Vercel (Frontend), AWS/Heroku (Backend)
 
 
-##Contact
+## Contact
 - **Author:** Chegondi Satya Durga
-- **Email: **21h41a4510@bvcits.edu.in
+- **Email:** 21h41a4510@bvcits.edu.in
  
